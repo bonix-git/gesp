@@ -24,3 +24,20 @@ As tags utilizadas podem ser vistas neste exemplo:
 * name=Escola Estadual Professor Lael de Moura Prado
 * ref=35001200
 
+##
+Escola sem numeração de rua
+
+* Não faça isso: addr:housenumber=S/N
+
+* Faça isso: note=Endereço sem numeração.
+
+## Fonte dos dados
+
+No JOSM ou ID, ao informar a fonte dos dados, sugiro utilizar uma combinação das fontes abaixo:
+
+* Bing
+* GESP
+* Mapillary
+* OpenStreetCam
+* Survey
+
