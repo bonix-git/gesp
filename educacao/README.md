@@ -1,12 +1,13 @@
 
-Escolas Estaduais de São Paulo
+## Escolas Estaduais de São Paulo
 
 Dados obtidos no site da Secretaria Estadual de Educação e formatados para
 importação no OSM.
 
 Fiz para uso próprio e acredito que pode ser útil para outras pessoas.
 
-##
+## TAGs
+
 As tags utilizadas podem ser vistas neste exemplo:
 
 * https://www.openstreetmap.org/way/392764788/history
@@ -24,8 +25,7 @@ As tags utilizadas podem ser vistas neste exemplo:
 * name=Escola Estadual Professor Lael de Moura Prado
 * ref=35001200
 
-##
-Escola sem numeração de rua
+## Escola sem numeração de rua
 
 * Não faça isso: addr:housenumber=S/N
 
